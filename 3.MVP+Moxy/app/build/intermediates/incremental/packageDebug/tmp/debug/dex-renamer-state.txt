@@ -1,4 +1,4 @@
-#Wed Jun 17 22:19:10 MSK 2020
-base.0=/home/z/Git/Architecture/1.MVP/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Fri Dec 04 19:08:25 MSK 2020
+base.0=/home/x/GIT/Architecture/3.MVP+Moxy/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
